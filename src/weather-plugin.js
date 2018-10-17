@@ -27,10 +27,8 @@ $(window).ready( function () {
                 if  (isFirst) {
                     first = values[0];
                 }
-                else if (values.length >= 5) {
-                    first = values[4];
-                }
                 else {
+                    var mid = Math.floor(values.length / 2);
                     first = values[3];
                 }
 
