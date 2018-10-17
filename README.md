@@ -25,3 +25,6 @@ De div heeft 2 attributen die worden gebruikt door de plugin, hierdoor weet de p
 
 ### Voorbeeld
 ![Voorbeeld afbeelding](https://github.com/maikelvdb/Goedkoop.Treinkaartje.Javascript.Weather/blob/master/sample.png?raw=true "Voorbeeld afbeelding")
+
+### Download javascript plugin
+[Download hier de weer plugin](https://github.com/maikelvdb/Goedkoop.Treinkaartje.Javascript.Weather/blob/master/src/weather-plugin.js)
