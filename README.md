@@ -22,3 +22,6 @@ Deze tag moet worden opgenomen onderaan de body van pagina's die gebruik moeten 
 ```
 
 De div heeft 2 attributen die worden gebruikt door de plugin, hierdoor weet de plugin van welke locatie de weervoorspelling moet worden opgehaald. De plugin zal de div vervangen voor de weer gegevens.
+
+### Voorbeeld
+![Voorbeeld afbeelding](https://github.com/maikelvdb/Goedkoop.Treinkaartje.Javascript.Weather/blob/master/sample.png?raw=true "Voorbeeld afbeelding")
